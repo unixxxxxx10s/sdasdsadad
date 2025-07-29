@@ -615,3 +615,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jul2025 05:43:27.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! -0.6076926593169674,-10.49079610902799,1.2569947223637428
 [29Jul2025 05:44:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Zombie
 [29Jul2025 05:45:02.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! 0.6305309723710479,-10.287592896255177,1.3712207016246722
+[29Jul2025 05:47:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by zilasaur
+[29Jul2025 05:48:06.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Fresita_Decaida
+[29Jul2025 05:49:09.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida lost connection: Disconnected
+[29Jul2025 05:49:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida left the game
+[29Jul2025 05:49:11.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[29Jul2025 05:49:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[29Jul2025 05:53:28.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[29Jul2025 05:53:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[29Jul2025 05:53:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jul2025 05:53:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jul2025 05:53:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jul2025 05:53:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jul2025 05:53:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jul2025 05:53:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jul2025 05:53:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[29Jul2025 05:53:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

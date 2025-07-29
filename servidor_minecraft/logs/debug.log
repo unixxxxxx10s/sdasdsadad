@@ -26752,3 +26752,66 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jul2025 05:45:44.660] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jul2025 05:45:55.408] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [29Jul2025 05:45:55.408] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:03.609] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:03.610] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:04.511] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:42.263] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:50.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:47:50.317] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:50.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:47:50.530] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:52.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:47:52.559] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:54.050] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:47:54.050] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:47:54.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by zilasaur
+[29Jul2025 05:47:55.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:48:06.288] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:48:06.288] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:48:06.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Fresita_Decaida
+[29Jul2025 05:48:07.783] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:48:58.008] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:49:09.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida lost connection: Disconnected
+[29Jul2025 05:49:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida left the game
+[29Jul2025 05:49:11.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zilasaur lost connection: Disconnected
+[29Jul2025 05:49:11.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur left the game
+[29Jul2025 05:50:43.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:50:43.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:51:49.657] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:51:51.856] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:51:52.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:51:52.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:00.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:00.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:00.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:00.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:07.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:08.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:51.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:51.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:51.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:51.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:53.807] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[29Jul2025 05:52:54.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:54.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:52:54.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[29Jul2025 05:52:54.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[29Jul2025 05:53:28.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[29Jul2025 05:53:28.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[29Jul2025 05:53:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jul2025 05:53:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jul2025 05:53:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jul2025 05:53:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jul2025 05:53:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jul2025 05:53:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jul2025 05:53:33.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/lostcities:lostcity
+[29Jul2025 05:53:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jul2025 05:53:33.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 05:53:34.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jul2025 05:53:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jul2025 05:53:34.054] [Server thread/DEBUG] [firstaid/]: Cleaning up
+[29Jul2025 05:53:34.054] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
