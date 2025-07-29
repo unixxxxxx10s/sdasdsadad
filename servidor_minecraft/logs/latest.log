@@ -585,3 +585,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jul2025 05:25:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Looter
 [29Jul2025 05:25:30.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Suit Up]
 [29Jul2025 05:25:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was shot by Skeleton
+[29Jul2025 05:26:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Zombie
+[29Jul2025 05:26:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Suit Up]
+[29Jul2025 05:26:48.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur has made the advancement [Isn't It Iron Pick]
+[29Jul2025 05:26:54.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Runner
+[29Jul2025 05:28:38.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Skeleton
+[29Jul2025 05:29:49.210] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[29Jul2025 05:29:50.365] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[29Jul2025 05:29:53.006] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[29Jul2025 05:30:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by xUNIx10
+[29Jul2025 05:30:35.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 burned to death
+[29Jul2025 05:31:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Looter
+[29Jul2025 05:33:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Zombie
+[29Jul2025 05:35:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida has made the advancement [Not Today, Thank You]
+[29Jul2025 05:36:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Runner

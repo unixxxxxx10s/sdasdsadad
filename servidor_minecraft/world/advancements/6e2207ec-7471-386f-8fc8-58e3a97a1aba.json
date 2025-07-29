@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-29 04:37:15 +0000"
@@ -137,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:38:14 +0000"
@@ -155,6 +167,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/transportation/paraglider_diamond": {
     "criteria": {
       "has_crafting_table": "2025-07-29 04:37:53 +0000"
@@ -164,6 +182,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-29 05:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -212,6 +236,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -365,6 +395,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/wooden_basic_shield": {
     "criteria": {
       "has_planks": "2025-07-29 04:37:50 +0000"
@@ -380,6 +422,12 @@
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -467,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-29 05:00:35 +0000"
@@ -497,6 +551,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 05:24:24 +0000"
@@ -506,6 +566,18 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -752,6 +824,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "pointblank:recipes/misc/printer": {
     "criteria": {
       "has_iron": "2025-07-29 05:11:33 +0000"
@@ -860,6 +938,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_javelin": {
     "criteria": {
       "has_wood": "2025-07-29 04:37:50 +0000"
@@ -869,6 +953,18 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-29 04:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
     },
     "done": true
   },
@@ -887,6 +983,12 @@
   "vc_gliders:recipes/transportation/paraglider_wood": {
     "criteria": {
       "has_crafting_table": "2025-07-29 04:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1016,6 +1118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-07-29 04:37:50 +0000"
@@ -1052,6 +1160,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-07-29 04:37:44 +0000"
@@ -1079,6 +1199,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1133,6 +1259,12 @@
   "spartanweaponry:recipes/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1217,6 +1349,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 05:24:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
     },
     "done": true
   },
@@ -1322,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-29 05:11:33 +0000"
@@ -1343,6 +1487,12 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:44:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
     },
     "done": true
   },
@@ -1388,6 +1538,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-07-29 04:37:15 +0000"
@@ -1415,6 +1571,18 @@
   "spartanweaponry:recipes/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-07-29 04:37:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1538,6 +1706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-07-29 05:11:33 +0000"
@@ -1577,6 +1751,18 @@
   "spartanweaponry:recipes/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 04:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
     },
     "done": true
   },
@@ -1634,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-29 04:37:15 +0000"
@@ -1676,6 +1868,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-29 04:30:38 +0000"
@@ -1700,9 +1898,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:38:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:32:21 +0000"
     },
     "done": true
   },
@@ -1727,6 +1937,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-29 04:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1781,6 +1997,12 @@
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-07-29 05:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -1872,6 +2094,12 @@
   "spartanweaponry:recipes/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-07-29 05:11:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
@@ -2014,6 +2242,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-29 04:37:15 +0000"
@@ -2092,6 +2326,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-07-29 04:27:50 +0000"
@@ -2137,6 +2377,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-07-29 04:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-29 05:26:48 +0000"
     },
     "done": true
   },
