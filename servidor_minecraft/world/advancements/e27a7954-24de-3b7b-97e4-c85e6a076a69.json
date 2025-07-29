@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-29 05:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-29 05:10:32 +0000"
@@ -993,6 +999,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-29 04:27:26 +0000"
@@ -1185,6 +1197,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_club": {
     "criteria": {
       "has_wood_log": "2025-07-29 04:28:35 +0000"
@@ -1347,6 +1365,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-29 04:59:37 +0000"
@@ -1488,6 +1512,12 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-07-29 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
     },
     "done": true
   },
@@ -1773,6 +1803,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-29 04:27:52 +0000"
@@ -1830,6 +1866,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
     },
     "done": true
   },
@@ -1896,6 +1938,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-07-29 04:36:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-29 05:44:23 +0000"
     },
     "done": true
   },
@@ -2063,6 +2111,7 @@
       "minecraft:river": "2025-07-29 04:30:00 +0000",
       "minecraft:dripstone_caves": "2025-07-29 04:56:01 +0000",
       "minecraft:forest": "2025-07-29 04:28:32 +0000",
+      "minecraft:deep_dark": "2025-07-29 05:36:18 +0000",
       "minecraft:meadow": "2025-07-29 04:29:25 +0000",
       "minecraft:plains": "2025-07-29 04:26:26 +0000"
     },

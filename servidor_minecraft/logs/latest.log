@@ -599,3 +599,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [29Jul2025 05:33:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Zombie
 [29Jul2025 05:35:30.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida has made the advancement [Not Today, Thank You]
 [29Jul2025 05:36:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Runner
+[29Jul2025 05:37:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Zombie
+[29Jul2025 05:38:52.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was shot by Skeleton
+[29Jul2025 05:39:40.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Zombie
+[29Jul2025 05:40:08.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Zombie
+[29Jul2025 05:40:55.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! -1.1167711078741718,-11.207870780463594,1.5831619470296445
+[29Jul2025 05:40:57.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was slain by Runner
+[29Jul2025 05:41:32.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Not Today, Thank You]
+[29Jul2025 05:41:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was shot by Skeleton
+[29Jul2025 05:41:52.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Runner
+[29Jul2025 05:42:03.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! -6.818739258953883,-0.32352912385572097,-7.331045588588694
+[29Jul2025 05:42:24.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zilasaur was shot by Skeleton
+[29Jul2025 05:42:39.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was shot by Skeleton
+[29Jul2025 05:42:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was shot by Skeleton
+[29Jul2025 05:43:27.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! -0.6076926593169674,-10.49079610902799,1.2569947223637428
+[29Jul2025 05:44:23.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_Decaida was slain by Zombie
+[29Jul2025 05:45:02.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_Decaida moved too quickly! 0.6305309723710479,-10.287592896255177,1.3712207016246722
